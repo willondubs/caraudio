@@ -1,0 +1,10 @@
+{
+    "music_directory": "/home/williew/music",
+    "state_file": "/home/williew/player_state.json",
+    "intro_sound": "/home/williew/intro.wav",
+    "buttons": {
+        "prev": 17,
+        "stop": 27,
+        "next": 22
+    }
+}
